@@ -23,3 +23,9 @@ UI Features
 Clean and modern interface using shadcn components.
 Differentiates weekends from weekdays visually.
 Event indicators on days with scheduled events.
+
+How to run this app:
+git clone https://github.com/SaiKumar297/Dynamic_Event_Handler.git
+cd Dynamic_Event_Handler
+npm install
+npm run dev
